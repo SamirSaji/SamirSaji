@@ -49,7 +49,8 @@ Front-End Developer in [Crayon'd - Chennai][crayond]
 
 ## :zap: Github Language :
 
-[Top Langs](https://github-readme-stats.samirsaji.vercel.app/api/top-langs/?username=SamirSaji)
+<img align="left" alt="Samir Github Language" src="https://github-readme-stats.samirsaji.vercel.app/api/top-langs/?username=SamirSaji" />
+
 
 [emtax]: https://www.emtaxtech.com/
 [crayond]: https://www.crayond.com/
