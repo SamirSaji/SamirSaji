@@ -42,21 +42,13 @@ Front-End Developer in [Crayon'd - Chennai][crayond]
 <br />
 
 <details>
-  <summary>
-
-## :zap: Github Stats :
-
- </summary>
+  <summary>:zap: Github Stats :</summary>
 
   <img align="left" alt="Samir Github Stats" src="https://github-readme-stats.samirsaji.vercel.app/api?username=SamirSaji&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true" />
   </details>
 <br/>
 <details>
-  <summary>
-
-## :zap: Github Language :
-
- </summary>
+  <summary>## :zap: Github Language : </summary>
 [Top Langs](https://github-readme-stats.samirsaji.vercel.app/api/top-langs/?username=SamirSaji)
  </details>
  
