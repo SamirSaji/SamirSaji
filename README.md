@@ -43,9 +43,9 @@ Front-End Developer in [Crayon'd - Chennai][crayond]
 
 ## :zap: Github Stats :
 
-  <img align="left" alt="Samir Github Stats" src="https://github-readme-stats.samirsaji.vercel.app/api?username=SamirSaji&count_private=true&show_icons=true&hide_border=true&theme=chartreuse-dark" />
+  <img align="left" alt="Samir Github Stats" src="https://github-readme-stats.samirsaji.vercel.app/api?username=SamirSaji&count_private=true&show_icons=true&hide_border=true&theme=chartreuse-dark&include_all_commits=true" />
 
-<img align="left" alt="Samir Github Language" src="https://github-readme-stats.samirsaji.vercel.app/api/top-langs/?username=SamirSaji" />
+<img align="left" alt="Samir Github Language" src="https://github-readme-stats.samirsaji.vercel.app/api/top-langs/?username=SamirSaji&layout=compact&theme=dark" />
 
 [emtax]: https://www.emtaxtech.com/
 [crayond]: https://www.crayond.com/
