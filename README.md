@@ -91,7 +91,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://https://github-readme-stats.samirsaji.vercel.app/api?username=SamirSaji&show_icons=true&hide_border=true" />
+  <img align="left" alt="Samir Github Stats" src="https://https://github-readme-stats.samirsaji.vercel.app/api?username=SamirSaji&show_icons=true&hide_border=true" />
 
 </details>
 
