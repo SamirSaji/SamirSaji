@@ -45,9 +45,9 @@ Front-End Developer in [Crayond][crayond]
 <br />
 
  ## :zap: Github Stats : 
-  <img align="left" alt="Samir Github Stats" src="https://github-readme-stats.samirsaji.vercel.app/api?username=SamirSaji&show_icons=true&hide_border=true" />
+  <img align="left" alt="Samir Github Stats" src="https://github-readme-stats.samirsaji.vercel.app/api?username=SamirSaji&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true" />
 
-
+[![Top Langs](https://github-readme-stats.samirsaji.vercel.app/api/top-langs/?username=SamirSaji)]
 
 [emtax]: https://www.emtaxtech.com/
 [crayond]: https://www.crayond.com/
