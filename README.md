@@ -4,9 +4,9 @@ Front-End Developer in [Crayon'd - Chennai][crayond]
 
 ## I'm a Developer 👨‍💻, Engineer 👨‍🔧, Flutist 🎷!
 
-- 🔭 I’m currently working on a [Emtax Project][emtax] !
+- 🔭 I’m currently working on a [Stylori][emtax] !
 - 👯 I’m looking to collaborate on open source projects and musical band
-- 🥅 2020 Goals: Improve full stack skills and Own bike
+- 🥅 2021 Goals: Improve full stack skills and Own bike
 
 ## Connect with me:
 
@@ -52,7 +52,7 @@ Front-End Developer in [Crayon'd - Chennai][crayond]
 
 <img align="left" alt="Samir Github Language" src="https://github-readme-stats.samirsaji.vercel.app/api/top-langs/?username=SamirSaji&layout=compact&theme=chartreuse-dark" />
 
-[emtax]: https://www.emtaxtech.com/
+[emtax]: https://www.stylori.com/
 [crayond]: https://www.crayond.com/
 [twitter]: https://twitter.com/codeSTACKr
 [instagram]: https://www.instagram.com/samir_saji/
