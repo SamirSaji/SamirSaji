@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammed Samir 👋
 
-Front-End Developer in [Crayon'd - Chennai][crayond]
+Front-End Developer [at] [Crayon'd - Chennai][crayond]
 
 ## I'm a Developer 👨‍💻, Engineer 👨‍🔧, Flutist 🎷!
 
