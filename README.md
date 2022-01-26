@@ -6,7 +6,7 @@ Front-End Developer [at] [Crayon'd - Chennai][crayond]
 
 - 🔭 I’m currently working on a [Stylori][emtax] !
 - 👯 I’m looking to collaborate on open source projects and musical band
-- 🥅 2021 Goals: Improve full stack skills and Own bike
+- 🥅 2022 Goals: Improve full stack skills
 
 ## Connect with me:
 
