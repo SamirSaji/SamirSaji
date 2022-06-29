@@ -1,12 +1,14 @@
 ### Hi there, I'm Mohammed Samir 👋
 
-Front-End Developer [at] [Crayon'd - Chennai][crayond]
+Front-End Engineer [at] [Crayon'd - Chennai][crayond]
 
-## I'm a Developer 👨‍💻, Engineer 👨‍🔧, Flutist 🎷!
+I'm a Full Stack Developer primarily focused on Front-end Application Development.
 
-- 🔭 I’m currently working on a [Stylori][emtax] !
-- 👯 I’m looking to collaborate on open source projects and musical band
-- 🥅 2022 Goals: Improve full stack skills
+Working in a startup environment for 2 years I have delivered projects both in individual capacity and as a team member. I've done product development starting from the ideation phase to delivery. I've worked directly with business owners in gathering requirements and planning. Worked with various teams and resources across different functional groups.
+
+Holds very good experience in front-end application development.
+
+Has strong self-discipline, Collaboration skills within the team, positive mental attitude towards creative analytical problem-solving.
 
 ## Connect with me:
 
@@ -45,7 +47,7 @@ Front-End Developer [at] [Crayon'd - Chennai][crayond]
 <br />
 
 
-[emtax]: https://www.stylori.com/
+[caratlane]: https://www.caratlane.com/
 [crayond]: https://www.crayond.com/
 [twitter]: https://twitter.com/codeSTACKr
 [instagram]: https://www.instagram.com/samir_saji/
