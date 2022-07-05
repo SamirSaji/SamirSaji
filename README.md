@@ -2,14 +2,11 @@
 
 Front-End Engineer [at] [Crayon'd - Chennai][crayond]
 
-I'm a Full Stack Developer primarily focused on Front-end Application Development.
+I'm a Full Stack Developer primarily focused on Front-end Application Development. Working in a startup environment for 2 years I have delivered projects both in individual capacity and as a team member.
 
-Working in a startup environment for 2 years I have delivered projects both in individual capacity and as a team member. I've done product development starting from the ideation phase to delivery. I've worked directly with business owners in gathering requirements and planning. Worked with various teams and resources across different functional groups.
+I've done product development starting from the ideation phase to delivery. I've worked directly with business owners in gathering requirements and planning. Worked with various teams and resources across different functional groups.
 
-Holds very good experience in front-end application development.
-
-Has strong self-discipline, Collaboration skills within the team, positive mental attitude towards creative analytical problem-solving.
-
+Holds very good experience in front-end application development. Has strong self-discipline, Collaboration skills within the team, positive mental attitude towards creative analytical problem-solving.
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
