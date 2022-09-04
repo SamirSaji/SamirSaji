@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammed Samir 👋
 
-Front-End Engineer [at] [Crayon'd - Chennai][crayond]
+Software Engineer [at] Nimbly
 
 I'm a Full Stack Developer primarily focused on Front-end Application Development. Working in a startup environment for 2 years I have delivered projects both in individual capacity and as a team member.
 
