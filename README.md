@@ -1,6 +1,6 @@
 ### Hello there, I'm Mohammed Samir 👋 
 
-#### Software Engineer by weekdays and a hardcore biker by weekends
+#### Software Engineer👨‍💻 by weekdays and a Hardcore Biker🏍️ by weekends
 
 #### `Presently using the account` [@samir-nimbly](https://github.com/samir-nimbly) 💼
 
