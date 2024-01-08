@@ -1,12 +1,11 @@
-### Hi there, I'm Mohammed Samir 👋
+### Hello there, I'm Mohammed Samir 👋 
 
-Software Engineer (Full Stack) [at] Nimbly
-
-I'm a Full Stack Developer primarily focused on Front-end Application Development. Have experience in Product and Service startups for 3.5 years. I have delivered projects both in an individual capacity and as a team member.
-
-I've done product development starting from the ideation phase to delivery. I've worked directly with business owners in gathering requirements and planning. Worked with various teams and resources across different functional groups.
-
-Holds very good experience in front-end application development. Has strong self-discipline, Collaboration skills within the team, positive mental attitude toward creative analytical problem-solving.
+#### Software Engineer by weekdays and a hardcore biker by weekends
 
 ### Presently using the account [samir-nimbly]([www.google.com](https://github.com/samir-nimbly) 💼
 
+Full-Stack Software Engineer at [Nimbly](https://medicare.pt?ref=github-caneco);<br>
+
+- ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx` `.html`, `.css`, `.go`, `.py`, `.sql`, `.mongodb`
+- 🌍 maintaining [Nimbly App](https://play.google.com/store/apps/details?id=com.sustainnovationgroup.sharpnsights&pcampaignid=web_share), [Nimbly Lite](https://play.google.com/store/apps/details?id=com.sustainnovationgroup.nimblylite&pcampaignid=web_share), etc...
+- 💬 `ping` me about **software development**, **design thinking**, **application architecture**, **Biking adventures**
