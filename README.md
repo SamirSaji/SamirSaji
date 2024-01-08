@@ -2,7 +2,7 @@
 
 #### Software Engineer by weekdays and a hardcore biker by weekends
 
-#### `Presently using the account [@samir-nimbly](https://github.com/samir-nimbly)` 💼
+#### `Presently using the account` [@samir-nimbly](https://github.com/samir-nimbly) 💼
 
 Full-Stack Software Engineer at [Nimbly](https://hellonimbly.com/);<br>
 
